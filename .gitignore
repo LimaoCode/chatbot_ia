@@ -30,7 +30,6 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
-/assets/credentials.json
 
 # Symbolication related
 app.*.symbols
