@@ -1,4 +1,4 @@
-#Wed Nov 08 11:14:48 BRT 2023
+#Wed Nov 08 12:09:38 BRT 2023
 base.0=/Users/vitor/Projetos/chatbot_ia/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
